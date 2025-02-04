@@ -1,5 +1,6 @@
 # What is your favorite color?
-Answer: red
+Answer: purple
+purple is the best
 
 # Dogs, Cats, or Other? If other, specify.
 Answer: dog
